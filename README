@@ -2,7 +2,7 @@ ACSMPred: Computational Prediction of Anticancer Small Molecules Using Machine L
 
 Contents:
 ACSMPred_train & ACSMPred_test: Train and Test dataset
-ACSMPred.ipynb: Codes for model generation
+ACSMPred_Hybrid_model.ipynb: Codes for model generation
 
 Project Overview
 Cancer poses a significant challenge in healthcare due to the lack of specificity in traditional treatments, leading to unwanted side effects. This study, ACSMPred, proposes a machine learning (ML) framework to predict potential anticancer small molecules effectively. Using a curated dataset of 3,600 compounds with IC50 values and various molecular descriptors, we developed several ML models that demonstrated high accuracy in identifying promising anticancer compounds.
